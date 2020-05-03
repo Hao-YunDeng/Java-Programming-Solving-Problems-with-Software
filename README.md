@@ -1,2 +1,2 @@
-# Java-Programming-Solving-Problems-with-Software
+# Java_Programming_Solving_Problems_with_Software
 https://www.coursera.org/learn/java-programming
